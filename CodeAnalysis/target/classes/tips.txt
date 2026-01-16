@@ -1,0 +1,11 @@
+√ SDG9. 产业创新基础设施
+    检查目录下有没有test.java
+    main函数内容是否过多不利于扩展，需要拆分为DAO/Service
+√ SDG13. 气候行动
+     控制碳排放
+
+√ SDG7. 清洁能源
+      检测死循环
+
+√ SDG12. 负责消费与生产
+       资源释放 比如try catch final
